@@ -48,6 +48,5 @@ $(document).ready(function() {
 
 ~~~
 
-This is my first plugin for JQuery, I hope you like it.
 
 [repo]: https://github.com/francescovallone/scrollHor/archive/master.zip
